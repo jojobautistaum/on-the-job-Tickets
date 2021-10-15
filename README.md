@@ -14,6 +14,7 @@ A website that offers Search Engine Optimization.
 * Added variables or custom properties
 * Consolidated CSS selectors and properties then grouping related properties together
 * Added README file
+* Fixed the navigational link within the page
 
 ## Website
 https://jojobautistaum.github.io/on-the-job-Tickets/
