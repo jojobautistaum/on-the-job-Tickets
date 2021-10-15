@@ -15,6 +15,11 @@ A website that offers Search Engine Optimization.
 * Consolidated CSS selectors and properties then grouping related properties together
 * Added README file
 * Fixed the navigational link within the page
+* Added comments in the style.css file
+
+## Built With
+* HTML
+* CSS
 
 ## Website
 https://jojobautistaum.github.io/on-the-job-Tickets/

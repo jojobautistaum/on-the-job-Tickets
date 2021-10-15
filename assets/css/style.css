@@ -58,6 +58,7 @@ header nav {
 }
 
 header nav ul {
+    /* remove style type list in the navigation */
     list-style-type: none;
 }
 
